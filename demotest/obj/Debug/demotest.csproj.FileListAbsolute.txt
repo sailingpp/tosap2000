@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\bin\Debug\demotest.dll
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\bin\Debug\demotest.pdb
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\obj\Debug\demotest.dll
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\obj\Debug\demotest.pdb
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\bin\Debug\demotest.tlb
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\obj\Debug\demotest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\obj\Debug\demotest.Form1.resources
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\obj\Debug\demotest.csproj.GenerateResource.Cache
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\bin\Debug\demotest.dll
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\bin\Debug\demotest.pdb
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\bin\Debug\demotest.tlb
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\obj\Debug\demotest.csprojResolveAssemblyReference.cache
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\obj\Debug\demotest.Form1.resources
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\obj\Debug\demotest.csproj.GenerateResource.Cache
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\obj\Debug\demotest.dll
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\demotest\obj\Debug\demotest.pdb
