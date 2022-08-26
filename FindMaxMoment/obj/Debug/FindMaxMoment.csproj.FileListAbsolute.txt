@@ -1,0 +1,16 @@
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\bin\Debug\FindMaxMoment.dll
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\bin\Debug\FindMaxMoment.pdb
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\bin\Debug\FindMaxMoment.tlb
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\obj\Debug\FindMaxMoment.csprojResolveAssemblyReference.cache
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\obj\Debug\FindMaxMoment.dll
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\obj\Debug\FindMaxMoment.pdb
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\bin\Debug\FindMaxMoment.dll
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\bin\Debug\FindMaxMoment.pdb
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\bin\Debug\FindMaxMoment.tlb
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\obj\Debug\FindMaxMoment.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\obj\Debug\FindMaxMoment.dll
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\obj\Debug\FindMaxMoment.pdb
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\obj\Debug\FindMaxMoment.Form1.resources
+C:\Users\Administrator\Desktop\MyWork\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\obj\Debug\FindMaxMoment.csproj.GenerateResource.Cache
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\obj\Debug\FindMaxMoment.Form1.resources
+F:\BaiduNetdiskWorkspace\FoundationTools\ToSap2000\FindMaxMoment\obj\Debug\FindMaxMoment.csproj.GenerateResource.Cache
