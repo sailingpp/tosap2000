@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tube", "Tube\Tube.csproj", "{5F43CD45-0353-4577-9099-53C34FE31DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondDevelopment", "SecondDevelopment\SecondDevelopment.csproj", "{861D1255-1C0A-4B37-987C-7B989C7ABB6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeighaNETtest", "WindowsFormsApplication1\TeighaNETtest.csproj", "{0D04E0CF-A356-40E8-9D3F-611217A23B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demotest", "demotest\demotest.csproj", "{2B496455-A1D2-4E0B-810E-8A1016EFA98E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crack", "Crack\Crack.csproj", "{5BFD7695-0914-4694-9469-635799B669D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxMoment", "FindMaxMoment\FindMaxMoment.csproj", "{F05AA9F0-6BEB-479C-BCE7-7AEB40F840F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F43CD45-0353-4577-9099-53C34FE31DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F43CD45-0353-4577-9099-53C34FE31DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F43CD45-0353-4577-9099-53C34FE31DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F43CD45-0353-4577-9099-53C34FE31DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861D1255-1C0A-4B37-987C-7B989C7ABB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861D1255-1C0A-4B37-987C-7B989C7ABB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861D1255-1C0A-4B37-987C-7B989C7ABB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861D1255-1C0A-4B37-987C-7B989C7ABB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D04E0CF-A356-40E8-9D3F-611217A23B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D04E0CF-A356-40E8-9D3F-611217A23B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D04E0CF-A356-40E8-9D3F-611217A23B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D04E0CF-A356-40E8-9D3F-611217A23B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B496455-A1D2-4E0B-810E-8A1016EFA98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B496455-A1D2-4E0B-810E-8A1016EFA98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B496455-A1D2-4E0B-810E-8A1016EFA98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B496455-A1D2-4E0B-810E-8A1016EFA98E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFD7695-0914-4694-9469-635799B669D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFD7695-0914-4694-9469-635799B669D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFD7695-0914-4694-9469-635799B669D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFD7695-0914-4694-9469-635799B669D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05AA9F0-6BEB-479C-BCE7-7AEB40F840F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05AA9F0-6BEB-479C-BCE7-7AEB40F840F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05AA9F0-6BEB-479C-BCE7-7AEB40F840F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05AA9F0-6BEB-479C-BCE7-7AEB40F840F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
